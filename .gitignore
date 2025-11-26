@@ -3,6 +3,7 @@ data/*.csv
 data/*.json
 data/*.zip
 data/*.txt
+data/*.xlsx
 
 # Ignorar checkpoints de Jupyter
 .ipynb_checkpoints/
