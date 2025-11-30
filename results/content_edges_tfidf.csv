@@ -1,0 +1,29 @@
+domain_A,domain_B,similarity
+US_News,politicsNews,0.4592418735383936
+US_News,News,0.47368531483170495
+US_News,Government News,0.5304054676983474
+US_News,left-news,0.5324473218712436
+US_News,worldnews,0.41965433813730596
+US_News,politics,0.5422879598161825
+US_News,Middle-east,0.9999237437592793
+politicsNews,News,0.7103531802241124
+politicsNews,Government News,0.7413334843341967
+politicsNews,left-news,0.6893534205798364
+politicsNews,worldnews,0.6453692757276096
+politicsNews,politics,0.7359249151216815
+politicsNews,Middle-east,0.45853154149048303
+News,Government News,0.7299354874262888
+News,left-news,0.8286423696086548
+News,worldnews,0.44945037701265245
+News,politics,0.8596958207196207
+News,Middle-east,0.4727586426403916
+Government News,left-news,0.8891282331344792
+Government News,worldnews,0.6203136202453349
+Government News,politics,0.8996046970343107
+Government News,Middle-east,0.5287445511794578
+left-news,worldnews,0.5558504476527563
+left-news,politics,0.9800518229401008
+left-news,Middle-east,0.5310023065780377
+worldnews,politics,0.5430528019720106
+worldnews,Middle-east,0.41886820595914454
+politics,Middle-east,0.5410891482586129
