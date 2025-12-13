@@ -1,0 +1,29 @@
+source,target,weight
+Government News,Middle-east,0.87445915
+Government News,News,0.9253098
+Government News,US_News,0.87461895
+Government News,left-news,0.96638703
+Government News,politics,0.96776164
+Government News,politicsNews,0.9018115
+Government News,worldnews,0.74238086
+Middle-east,News,0.85329056
+Middle-east,US_News,0.9999927
+Middle-east,left-news,0.87894
+Middle-east,politics,0.88031584
+Middle-east,politicsNews,0.77724373
+Middle-east,worldnews,0.682832
+News,US_News,0.85340416
+News,left-news,0.9565073
+News,politics,0.9648223
+News,politicsNews,0.87037706
+News,worldnews,0.62637734
+US_News,left-news,0.87918794
+US_News,politics,0.8803947
+US_News,politicsNews,0.7772312
+US_News,worldnews,0.68225235
+left-news,politics,0.9919096
+left-news,politicsNews,0.8511531
+left-news,worldnews,0.68339837
+politics,politicsNews,0.8769654
+politics,worldnews,0.67841315
+politicsNews,worldnews,0.7430922
