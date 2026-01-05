@@ -1,0 +1,19 @@
+{
+  "n_nodes": 2431,
+  "n_edges": 3875,
+  "edges_same_ip": 3874,
+  "edges_same_registrar": 0,
+  "edges_with_content": 1,
+  "connected_components": [
+    49,
+    28,
+    21,
+    20,
+    18,
+    15,
+    14,
+    13,
+    13,
+    12
+  ]
+}
